@@ -1,2 +1,8 @@
 # AutoGluon models
 AutogluonModels/
+
+# uv / Python environment
+.venv/
+__pycache__/
+
+.claude
