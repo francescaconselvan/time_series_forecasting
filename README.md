@@ -1,4 +1,4 @@
-# time_series_forecasting
+# Time series forecasting
 
 Course materials for time series forecasting: data exploration, ARIMA modeling, and AutoML with AutoGluon, using energy and production datasets. The goal is to provide hands-on practice with real-world time series data across the full forecasting workflow — from pattern discovery to automated model selection.
 
