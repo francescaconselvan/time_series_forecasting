@@ -16,7 +16,7 @@ Course materials for time series forecasting: data exploration, ARIMA modeling, 
 | `AUS quaterly beer production.csv`      | Quarterly beer production in Australia (1956–2010).                               |
 | `AUS monthly beer production.csv`       | Monthly beer production in Australia (1956–2010).                                 |
 | `requirements.txt`                      | Pinned list of all Python dependencies.                                           |
-| `pyproject.toml`                        | Declares dependencies and Python version (`==3.13.*`).                            |
+| `pyproject.toml`                        | Declares dependencies and Python version (`==3.11.*`).                            |
 | `.gitignore`                            | Excludes `.venv/` and `__pycache__/` from git.                                    |
 
 ## One-time: install uv
@@ -40,7 +40,7 @@ Source of truth: https://docs.astral.sh/uv/getting-started/installation/
 ```sh
 git clone https://github.com/francescaconselvan/time_series_forecasting.git
 cd time_series_forecasting
-uv sync          # creates .venv/, downloads Python 3.13 if needed, installs deps from uv.lock
+uv sync          # creates .venv/, downloads Python 3.11.6 if needed, installs deps from uv.lock
 ## >> Activate the virtualenv in .venv (created in the previous command)
 jupyter notebook
 ```
