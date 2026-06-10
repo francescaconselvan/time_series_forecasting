@@ -13,6 +13,7 @@ Course materials for time series forecasting: data exploration, ARIMA modeling, 
 | `5_AutoGluon.ipynb`                     | AutoML time series forecasting with AutoGluon.                                    |
 | `smart_meter_data.csv`                  | Half-hourly electricity consumption from smart meters.                            |
 | `UK_electricity_demand_2024.csv`        | UK electricity demand for the year 2024.                                          |
+| `UK_electricity_demand_2021_2024.csv`   | UK electricity demand from 2021 to 2024.                                          |
 | `AUS quaterly beer production.csv`      | Quarterly beer production in Australia (1956–2010).                               |
 | `AUS monthly beer production.csv`       | Monthly beer production in Australia (1956–2010).                                 |
 | `requirements.txt`                      | Pinned list of all Python dependencies.                                           |
